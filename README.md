@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunny!</h1>
 <h3 align="center">I am working as a SDE 2 at Spektra Systems. I love developing products and have a strong interest in Distributed Systems and Artificial Intelligence.</h3>
-<img align="center" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="center" width="400" src="https://github.com/sunnypatel2048/sunnypatel2048/blob/main/profile.gif">
 
 - 🌱 I’m currently learning **.NET 6 and Machine Learning**
 
