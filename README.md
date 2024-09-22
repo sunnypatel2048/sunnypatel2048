@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/sunnypatel2048/sunnypatel2048/blob/main/profile2.gif)
 
 <h1 align="center">Hi 👋, I'm Sunny!</h1>
-<h3 align="center">I am working as a SDE 2 at Spektra Systems. I love developing products and have a strong interest in Distributed Systems and Artificial Intelligence.</h3>
+<h3 align="center">I am a CS grad student at UMBC and have 4 years of full-stack development experience. I love developing products and have a strong interest in Distributed Systems and Data Science.</h3>
 
 <img align="right" width="400" src="https://github.com/sunnypatel2048/sunnypatel2048/blob/main/profile.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🌱 I’m currently learning **.NET 6, GO and Data Engineering**
+- 🌱 I’m currently learning **.NET 6, GO and Machine Learning**
 
 - 💬 Ask me about **.NET, JavaScript, SQL**
 
