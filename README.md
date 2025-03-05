@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/sunnypatel2048/sunnypatel2048/blob/main/profile2.gif)
 
 <h1 align="center">Hi 👋, I'm Sunny!</h1>
-<h3 align="center">I am a CS grad student at UMBC and have 4 years of full-stack development experience. I love developing products and have a strong interest in Distributed Systems and Data Science.</h3>
+<h3 align="center">I am a CS grad student at UMBC and have 4 years of full-stack development experience. I love developing products and have a strong interest in Distributed Systems and Data Engineering.</h3>
 
 <img align="right" width="400" src="https://github.com/sunnypatel2048/sunnypatel2048/blob/main/profile.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🌱 I’m currently learning **.NET 6, GO and Machine Learning**
+- 🌱 I’m currently learning **Distrubuted Sytems & Golang**
 
-- 💬 Ask me about **.NET, JavaScript, SQL**
+- 💬 Ask me about **.NET Framework/Core and Cloud Technologies (AWS, Azure, etc.)**
 
 - 📫 How to reach me **sunnypatel2048@gmail.com**
 
